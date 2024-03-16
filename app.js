@@ -1,0 +1,5 @@
+alert("first name")
+alert("last name")
+alert("E-mail")
+alert("Phone Number")
+alert("Password")
