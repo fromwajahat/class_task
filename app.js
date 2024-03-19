@@ -197,8 +197,37 @@
 // var calculatedNum = 4 / (2 * 4);
 // console.log(calculatedNum);   // 0.5
 
+// ==================================Chapter 8 (Concatenating Text Strings)
+//     1. var num = "2" + "2";
+//     What is the value of num? Include quotation marks.
+//     2. message = ("Hello," + "Dolly");
+//     What is the value of message? (Include the quotation marks.)
+//     Alert the statement
+//     3. alert("33" + 3);
+//     What message displays in the alert box?
+//     4. Write an alert that displays the concatenation of the two parts of
+//     "Pakistan Zindabad".
+//     5. Write a statement that assigns to a variable the concatenation of
+//     a string with a number
+//     6. Assign strings to two variables. Then concatenate them and assign
+//     the result to a third variable.
+    
+// var num = "2" + "2"; // 22
 
+// message = ("hello" + "dolly"); // hellodolly
+// alert(message);  
 
+// alert("33" + 3); // 333 
+
+// alert("Pakistan" + " " + "Zindabad"); //
+
+// var strNum = "Number" + 2; //
+// console.log(strNum);  
+
+// var str1 = "Pakistan";
+// var str2 = "Zindabad";
+// var result = str1 + " " + str2;
+// console.log(result);
 
 
 
