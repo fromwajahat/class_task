@@ -229,6 +229,57 @@
 // var result = str1 + " " + str2;
 // console.log(result);
 
+// ======================================Chapter 9 (Prompts)
+// 1. Code a prompt with the message "Enter first name". The user's
+// response is assigned to firstName.
+// 2. Code a prompt with the message "Country?" and the default
+// answer "China". The user's response is assigned to country.
+// 3. Correct this statement
+// var yourName = prompt(Enter Your Name");
+// 4. Code a prompt that specifies a string as the message Include a
+// default input.
+// 5. Assign strings to two variables. Code a prompt specifying the first
+// variable as the message and the second variable as the default
+// response. Assign the user's response to a third variable.
+// 6. Display a prompt, including both a message and a default
+// response. Display the user's response in an alert.
+
+// var firstName = +prompt("Enter Your Name");
+
+// var country = +prompt("Country ?", "China");
+
+// var yourName = +prompt("Enter Your Name");
+
+
+// var userInput = prompt("Enter a message:", "Default input");
+// console.log(userInput);
+
+
+// var msg = "Please enter your name";
+// var dftAnswer = "Abdullah";
+// var usrRespon = prompt(msg, dftAnswer);
+
+// var msg = "Please enter your name";
+// var dftAnswer = "Ali Baba";
+// var usrRespon = prompt(msg, dftAnswer);
+// alert(usrRespon);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
